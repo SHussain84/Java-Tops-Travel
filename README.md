@@ -1,6 +1,6 @@
 # Java-Tops-Travel ✈️
 
-Tops Travel is a small program in Java which allows members to login to a website class and then book a holiday.
+Tops Travel is a small program in Java which allows members to login to a website and then book a holiday.
 
 If a discount is available for a member, it is applied accordingly.
 
